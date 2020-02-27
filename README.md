@@ -1,2 +1,2 @@
-# NY-Property-Tax-Fraud-Detection
-Detect anomalous New York property tax report using unsupervised machine learning method
+# NYC-Property-Valuation-Anomoly-Detection
+The objective of this research project is to gain insights into the fraud dynamics of real estate valuation in New York, New York using unsupervised machine learning techniques. There are incentives to both under-report and over-report property valuation. This study details a methodology to build a robust model that detects unusual properties in terms of valuations and identifies those outliers for close-up examination.
